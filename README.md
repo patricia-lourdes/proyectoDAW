@@ -6,9 +6,15 @@ Este repositorio esta disponible para poder manejar, controlar y dar seguimiento
 El proyecto a desarrollar tiene como objetivo.
 Comprobar las habilidades para poder desarrollar una aplicación web que cumpla con los requisitos necesarios para el correcto manejo y tratamiento de datos, los cuales deben de poder ser almacenados, editados, consultados en diferentes formas y en los casos que sean necesarios poder eliminarlos, poder autorizar el uso de la aplicación a diferentes personas asignando privilegios los cuales permitan realizar las respectivas tareas de acuerdo a su rol en el sistema.
 ### objetivos secundarios
-- 
-- item
-- item
+- Realizar las tareas de Mantenimiento de datos(CRUD)
+- Implmentat mecanismos de acceso y asignacion de privilegios.
+- Crear reportes y consultas tomando en consideracion filtros de busqueda y/o parámetros para limitar los resultados.
+- Aplicar un diseño de acuerdo a los Estandares de la Tecnología HTML5
+- Implementar mecanismos propios para poder realizar las copias de seguridad y recuperacion de las mismas.
+- Ser creativo realizando diseños propios.
+- Documentar la aplicación.
+
+
 
 
 
