@@ -18,7 +18,7 @@ Comprobar las habilidades para poder desarrollar una aplicación web que cumpla 
 
 ## Información del Manejo del Proyecto.
 Para poder llevar a cabo un buen manejo del proyecto usted debe de hacer lo siguiente.
-- Crear un **fork** del contenido del proyecto.
+- Crear un **fork** del contenido del proyecto. Dicho proyecto se encuentra en la sigueinte URL [Base de Proyecto](https://github.com/sistemasITCA2015/proyectoDAW)
 - Con su **compañero de Equipo** asignarse los privilegios necesarios para poder hacer realizar **commits a su proyecto**.
 - trabajar ordenados y siguiendo los lineamientos que se vayan explicando en el desarrollo de las clases.
 
