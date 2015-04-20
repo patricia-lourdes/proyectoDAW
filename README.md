@@ -23,7 +23,9 @@ Para poder llevar a cabo un buen manejo del proyecto usted debe de hacer lo sigu
 - trabajar ordenados y siguiendo los lineamientos que se vayan explicando en el desarrollo de las clases.
 
 ##Esquema de su aplicacion y Resultados Finales.
-El proyecto a desarrollar debe ser una aplicacion en PHP que implemente el uso de Programción Orientada a Objetos, la cual debe ser aplicada usando algunos estandares utiles como el denominado PSR-4, esto para generar un desarrollo más adecuado y apegado a estandares, diseño adecuado a las necesidades de cada usuarios de la aplicación, la aplicacion debe utilizar el Responsive Design, Generación de Reportes en documentos PDF, XML o otro formato para presentación de información, Uso de patrones de Diseño, y la documentacion necesaria de todas las técnicas que se estudien en el módulo de Tecnicas de Ingenieria de Software.
+El proyecto a desarrollar debe ser una aplicacion en PHP que implemente el uso de Programción Orientada a Objetos, la cual debe ser aplicada usando algunos estandares utiles como el denominado PSR-4, esto para generar un desarrollo más adecuado y apegado a estandares, diseño adecuado a las necesidades de cada usuarios de la aplicación, la aplicacion debe utilizar el Responsive Design, Generación de Reportes en documentos PDF, XML o otro formato para presentación de información, Uso de patrones de Diseño, y la documentacion necesaria de todas las técnicas que se estudien en el módulo de Técnicas de Ingenieria de Software.
+
+Las carpetas que se encuentran en el proyecto base deben de mantenerse para un orden y control de no ser asi puede variar con los resultados esperados.
 
 ##Revisiones y Mecánica de Evaluación
 las evaluaciones y revisiones se realizaran utilizando la plataforma de GitHub esto es para dar un mejor seguimiento a cada actividad y ver el avance de las mismas, para ello se utilizaran los elementos de **Milestones** e **issues** que proporciona la plataforma por ello ademas de su compañero de trabajo debe de dar privilegios para du proyecto a el o docentes que van a evaluar dichas tareas.
@@ -31,6 +33,7 @@ se ponderara de acuerdo a las actividades que se identifiquen como prioritarias 
 - crear animaciones.
 - crear elementos visuales que resalten (cuadros de dialogos, mensajes de validacion), no se evaluaran los estilos pero si se evaluara que estos esten presentes en el proyecto.
 - Uso de librerias que solo aporten aspectos visuales.
+
 
 
 
