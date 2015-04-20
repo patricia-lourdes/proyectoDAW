@@ -1,0 +1,25 @@
+{
+  "name": "proyecto/sistema-votacion",
+  "description": "Definir una explicación del proyecto",
+  "type": "project",
+  "authors":[
+    {
+      "name": "Integrante1",
+      "email": "correo@integrante.com"
+    },
+    {
+      "name": "Integrante2",
+      "email": "correo@integrante.com"
+    }
+
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload":{
+    "psr-4":{
+
+    }
+  }
+
+}
